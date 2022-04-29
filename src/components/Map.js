@@ -3,9 +3,8 @@ import { Icon } from 'leaflet';
 import styled from 'styled-components';
 
 const locationIcon = new Icon({
-  iconUrl: '/images/icon-location.svg',
-  iconSize: [35,42]
-
+  iconUrl: process.env.PUBLIC_URL + '/images/icon-location.svg',
+  iconSize: [35,40],
 })
 
 const MyMap = styled(MapContainer)`
