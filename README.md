@@ -21,8 +21,8 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/ipaddresstracker-using-styledcomponents-S10cVGqm9]
-- Live Site URL: [https://elpidahope.github.io/ip-address-tracker/]
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/ipaddresstracker-using-styledcomponents-S10cVGqm9)
+- Live Site URL: [Live](https://elpidahope.github.io/ip-address-tracker/)
 
 ## My process
 
